@@ -4,7 +4,7 @@
 
 # Free Proxy List
 
-<img src="https://img.shields.io/badge/UPDATED:%2014%20second(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%206%20minute(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
@@ -19,7 +19,7 @@
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-292,79395817195973ms-yellow) 
+![Latency](https://img.shields.io/badge/Avg%20Latency-292,79628195197523ms-yellow) 
 ![Lowest](https://img.shields.io/badge/Lowest%20Latency-3ms-brightgreen)
 
 
