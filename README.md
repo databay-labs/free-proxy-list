@@ -4,7 +4,7 @@
 
 # Free Proxy List
 
-<img src="https://img.shields.io/badge/UPDATED:%2053%20minute(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%2059%20minute(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
