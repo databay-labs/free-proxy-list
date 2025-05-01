@@ -8,10 +8,10 @@
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
-  <img src="https://img.shields.io/badge/HTTP-45%20PROXIES-brightgreen">
+  <img src="https://img.shields.io/badge/HTTP-43%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-75%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-49%20PROXIES-blue">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/https.txt">
   <img src="https://img.shields.io/badge/HTTPS-0%20PROXIES-yellow">
@@ -19,7 +19,7 @@
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-156,925ms-yellow) 
+![Latency](https://img.shields.io/badge/Avg%20Latency-170,81521739130434ms-yellow) 
 ![Lowest](https://img.shields.io/badge/Lowest%20Latency-8ms-brightgreen)
 
 
@@ -39,12 +39,12 @@
 ## 🚀 Features
 - **Fresh Proxies**: Updated every 5 minutes 🕒
 - **Zero Duplicates**: Clean, optimized list ✨
-- **Multi-Country**: Proxies from **20+ countries** 🌍
+- **Multi-Country**: Proxies from **19+ countries** 🌍
 - **Blazing Fast**: Curated for speed ⚡
 - **Protocol Support**:
-  - **HTTP**: 45 proxies
+  - **HTTP**: 43 proxies
   - **HTTPS**: 0 proxies (no MITM certificate trust needed 🔒)
-  - **SOCKS5**: 75 proxies
+  - **SOCKS5**: 49 proxies
 
 ---
 
