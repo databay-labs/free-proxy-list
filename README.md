@@ -19,7 +19,7 @@
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-323,0769230769231ms-yellow) 
+![Latency](https://img.shields.io/badge/Avg%20Latency-322,9138461538462ms-yellow) 
 ![Lowest](https://img.shields.io/badge/Lowest%20Latency-3ms-brightgreen)
 
 
