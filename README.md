@@ -4,22 +4,22 @@
 
 # Free Proxy List
 
-<img src="https://img.shields.io/badge/UPDATED:%200.21%20second(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%202%20second(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
-  <img src="https://img.shields.io/badge/HTTP-2457%20PROXIES-brightgreen">
+  <img src="https://img.shields.io/badge/HTTP-2443%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-1335%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-1332%20PROXIES-blue">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/https.txt">
-  <img src="https://img.shields.io/badge/HTTPS-2066%20PROXIES-yellow">
+  <img src="https://img.shields.io/badge/HTTPS-2068%20PROXIES-yellow">
 </a>
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-309,8187022900763ms-yellow) 
+![Latency](https://img.shields.io/badge/Avg%20Latency-308,31835604770015ms-yellow) 
 ![Lowest](https://img.shields.io/badge/Lowest%20Latency-2ms-brightgreen)
 
 
@@ -42,9 +42,9 @@
 - **Multi-Country**: Proxies from **100+ countries** 🌍
 - **Blazing Fast**: Curated for speed ⚡
 - **Protocol Support**:
-  - **HTTP**: 2457 proxies
-  - **HTTPS**: 2066 proxies (no MITM certificate trust needed 🔒)
-  - **SOCKS5**: 1335 proxies
+  - **HTTP**: 2443 proxies
+  - **HTTPS**: 2068 proxies (no MITM certificate trust needed 🔒)
+  - **SOCKS5**: 1332 proxies
 
 ---
 
