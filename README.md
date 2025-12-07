@@ -11,15 +11,15 @@
   <img src="https://img.shields.io/badge/HTTP-2443%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-1332%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-1331%20PROXIES-blue">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/https.txt">
-  <img src="https://img.shields.io/badge/HTTPS-2068%20PROXIES-yellow">
+  <img src="https://img.shields.io/badge/HTTPS-2069%20PROXIES-yellow">
 </a>
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-308,31835604770015ms-yellow) 
+![Latency](https://img.shields.io/badge/Avg%20Latency-307,9256339228638ms-yellow) 
 ![Lowest](https://img.shields.io/badge/Lowest%20Latency-2ms-brightgreen)
 
 
@@ -43,8 +43,8 @@
 - **Blazing Fast**: Curated for speed ⚡
 - **Protocol Support**:
   - **HTTP**: 2443 proxies
-  - **HTTPS**: 2068 proxies (no MITM certificate trust needed 🔒)
-  - **SOCKS5**: 1332 proxies
+  - **HTTPS**: 2069 proxies (no MITM certificate trust needed 🔒)
+  - **SOCKS5**: 1331 proxies
 
 ---
 
