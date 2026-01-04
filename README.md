@@ -1,26 +1,26 @@
 <div align="center">
 
-<a href="https://databay.com/" target="_blank" title="Go to the Databay website"><img width="350px" alt="Databay logo" src="https://databay.com/img/brand/header-logo.svg"></a>
+<a href="https://databay.com/" target="_blank" title="Go to the Databay website"><img width="350px" alt="Databay logo" src="https://i.postimg.cc/Nsh3WmDw/free-proxy-list.png"></a>
 
-# Free Proxy List
+# 🔄 Free Proxy List by Databay.COM | Constantly Updated
 
-<img src="https://img.shields.io/badge/UPDATED:%206%20second(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%200.60%20second(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
-  <img src="https://img.shields.io/badge/HTTP-1619%20PROXIES-brightgreen">
+  <img src="https://img.shields.io/badge/HTTP-71%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-1244%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-103%20PROXIES-blue">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/https.txt">
-  <img src="https://img.shields.io/badge/HTTPS-1175%20PROXIES-yellow">
+  <img src="https://img.shields.io/badge/HTTPS-0%20PROXIES-yellow">
 </a>
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-360,75737392959087ms-yellow) 
-![Lowest](https://img.shields.io/badge/Lowest%20Latency-2ms-brightgreen)
+![Latency](https://img.shields.io/badge/Avg%20Latency-3105,0131022988508ms-yellow) 
+![Lowest](https://img.shields.io/badge/Lowest%20Latency-38,5669ms-brightgreen)
 
 
 **&searr;&nbsp;&nbsp;Looking for Premium Proxies?&nbsp;&nbsp;&swarr;**
@@ -28,8 +28,6 @@
 [Click Here!](https://databay.com/)
 
 </div>
-
-# 🔄 Free Proxy List by Databay | Constantly Updated
 
 > [!IMPORTANT]\
 > ⚠️ Free proxies carry risks! Many perform MITM attacks to modify your data. Use with caution and avoid sensitive activities. For secure browsing, consider **[Databay's Premium Rotating Proxies](https://www.google.com/search?q=databay+proxies)**.
@@ -39,12 +37,12 @@
 ## 🚀 Features
 - **Fresh Proxies**: Updated every 5 minutes 🕒
 - **Zero Duplicates**: Clean, optimized list ✨
-- **Multi-Country**: Proxies from **91+ countries** 🌍
+- **Multi-Country**: Proxies from **34+ countries** 🌍
 - **Blazing Fast**: Curated for speed ⚡
 - **Protocol Support**:
-  - **HTTP**: 1619 proxies
-  - **HTTPS**: 1175 proxies (no MITM certificate trust needed 🔒)
-  - **SOCKS5**: 1244 proxies
+  - **HTTP**: 71 proxies
+  - **HTTPS**: 0 proxies (no MITM certificate trust needed 🔒)
+  - **SOCKS5**: 103 proxies
 
 ---
 
