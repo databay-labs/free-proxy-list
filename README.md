@@ -1,17 +1,17 @@
 <div align="center">
 
-<a href="https://databay.com/" target="_blank" title="Go to the Databay website"><img width="350px" alt="Databay logo" src="https://i.postimg.cc/Nsh3WmDw/free-proxy-list.png"></a>
+<a href="https://databay.com/" target="_blank" title="Go to the Databay website"><img width="100%" alt="Databay logo" src="https://i.postimg.cc/pTZcj930/free-proxy-list.png"></a>
 
 # 🔄 Free Proxy List by Databay.COM | Constantly Updated
 
-<img src="https://img.shields.io/badge/UPDATED:%202%20second(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%201%20second(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
-  <img src="https://img.shields.io/badge/HTTP-43%20PROXIES-brightgreen">
+  <img src="https://img.shields.io/badge/HTTP-51%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-23%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-35%20PROXIES-blue">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/https.txt">
   <img src="https://img.shields.io/badge/HTTPS-0%20PROXIES-yellow">
@@ -19,7 +19,7 @@
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-2009,4827772727272ms-yellow) 
+![Latency](https://img.shields.io/badge/Avg%20Latency-2159,724465116279ms-yellow) 
 ![Lowest](https://img.shields.io/badge/Lowest%20Latency-116,5248ms-brightgreen)
 
 
@@ -37,12 +37,12 @@
 ## 🚀 Features
 - **Fresh Proxies**: Updated every 5 minutes 🕒
 - **Zero Duplicates**: Clean, optimized list ✨
-- **Multi-Country**: Proxies from **21+ countries** 🌍
+- **Multi-Country**: Proxies from **24+ countries** 🌍
 - **Blazing Fast**: Curated for speed ⚡
 - **Protocol Support**:
-  - **HTTP**: 43 proxies
+  - **HTTP**: 51 proxies
   - **HTTPS**: 0 proxies (no MITM certificate trust needed 🔒)
-  - **SOCKS5**: 23 proxies
+  - **SOCKS5**: 35 proxies
 
 ---
 
