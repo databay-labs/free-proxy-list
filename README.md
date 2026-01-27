@@ -19,7 +19,7 @@
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-4331,182736900773ms-yellow) 
+![Latency](https://img.shields.io/badge/Avg%20Latency-4328,967902257517ms-yellow) 
 ![Lowest](https://img.shields.io/badge/Lowest%20Latency-17,964ms-brightgreen)
 
 
@@ -37,7 +37,7 @@
 ## 🚀 Features
 - **Fresh Proxies**: Updated every 5 minutes 🕒
 - **Zero Duplicates**: Clean, optimized list ✨
-- **Multi-Country**: Proxies from **105+ countries** 🌍
+- **Multi-Country**: Proxies from **104+ countries** 🌍
 - **Blazing Fast**: Curated for speed ⚡
 - **Protocol Support**:
   - **HTTP**: 2042 proxies
