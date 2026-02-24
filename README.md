@@ -4,14 +4,14 @@
 
 # 🔄 Free Proxy List by Databay.com | Constantly Updated
 
-<img src="https://img.shields.io/badge/UPDATED:%200.00%20second(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%200.85%20second(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
   <img src="https://img.shields.io/badge/HTTP-1780%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-1361%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-1353%20PROXIES-blue">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/https.txt">
   <img src="https://img.shields.io/badge/HTTPS-0%20PROXIES-yellow">
@@ -19,7 +19,7 @@
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-4796,312078605549ms-yellow) 
+![Latency](https://img.shields.io/badge/Avg%20Latency-4783,623265145239ms-yellow) 
 ![Lowest](https://img.shields.io/badge/Lowest%20Latency-20,7461ms-brightgreen)
 
 
@@ -42,7 +42,7 @@
 - **Protocol Support**:
   - **HTTP**: 1780 proxies
   - **HTTPS**: 0 proxies (no MITM certificate trust needed 🔒)
-  - **SOCKS5**: 1361 proxies
+  - **SOCKS5**: 1353 proxies
 
 ---
 
