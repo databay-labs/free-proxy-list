@@ -1,71 +1,82 @@
 <div align="center">
 
-<a href="https://databay.com/" target="_blank" title="Go to the Databay website"><img width="100%" alt="Databay logo" src="https://i.postimg.cc/pTZcj930/free-proxy-list.png"></a>
+<a href="https://databay.com/free-proxy-list" target="_blank" title="Go to the Databay Free Proxy List"><img width="100%" alt="Databay logo" src="https://i.postimg.cc/pTZcj930/free-proxy-list.png"></a>
 
 # 🔄 Free Proxy List by Databay.com | Constantly Updated
 
-<img src="https://img.shields.io/badge/UPDATED:%200.06%20second(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%205%20second(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
-  <img src="https://img.shields.io/badge/HTTP-1050%20PROXIES-brightgreen">
+  <img src="https://img.shields.io/badge/HTTP-1%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-6471%20PROXIES-blue">
-</a>
-<a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/https.txt">
-  <img src="https://img.shields.io/badge/HTTPS-0%20PROXIES-yellow">
+  <img src="https://img.shields.io/badge/SOCKS5-22%20PROXIES-blue">
 </a>
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-3063,222574843782ms-yellow) 
-![Lowest](https://img.shields.io/badge/Lowest%20Latency-26,1548ms-brightgreen)
+![Latency](https://img.shields.io/badge/Avg%20Latency-2542ms-yellow)
+![Lowest](https://img.shields.io/badge/Lowest%20Latency-242ms-brightgreen)
 
+**&searr;&nbsp;&nbsp;Browse, filter & download the full list with API access&nbsp;&nbsp;&swarr;**
 
-**&searr;&nbsp;&nbsp;Looking for Premium Proxies?&nbsp;&nbsp;&swarr;**
-
-[Click Here!](https://databay.com/)
+[**databay.com/free-proxy-list**](https://databay.com/free-proxy-list)
 
 </div>
 
 > [!IMPORTANT]\
-> ⚠️ Free proxies carry risks! Many perform MITM attacks to modify your data. Use with caution and avoid sensitive activities. For secure browsing, consider **[Databay's Premium Rotating Proxies](https://www.google.com/search?q=databay+proxies)**.
+> ⚠️ Free proxies carry risks! Many perform MITM attacks to modify your data. **All proxies in this list have valid SSL certificates** (strict HTTPS — no MITM certificate trust needed). For secure browsing at scale, consider **[Databay's Premium Rotating Proxies](https://databay.com/)**.
 
 ---
 
 ## 🚀 Features
+- **Strict SSL Only**: Every proxy supports HTTPS with a valid certificate 🔒
 - **Fresh Proxies**: Updated every 5 minutes 🕒
 - **Zero Duplicates**: Clean, optimized list ✨
-- **Multi-Country**: Proxies from **94+ countries** 🌍
-- **Blazing Fast**: Curated for speed ⚡
+- **Multi-Country**: Proxies from **12+ countries** 🌍
 - **Protocol Support**:
-  - **HTTP**: 1050 proxies
-  - **HTTPS**: 0 proxies (no MITM certificate trust needed 🔒)
-  - **SOCKS5**: 6471 proxies
+  - **HTTP**: 1 proxies (with strict SSL)
+  - **SOCKS5**: 22 proxies (with strict SSL)
 
 ---
 
-
 ## 📥 Download Proxies
 
-### HTTP Proxies
+### HTTP Proxies (Strict SSL)
 ```bash
 curl -O https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/http.txt
 ```
-  
-### HTTPS Proxies (No Certificate Trust)
-```bash
-curl -O https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/https.txt
-```
 
-### SOCKS5 Proxies
+### SOCKS5 Proxies (Strict SSL)
 ```bash
 curl -O https://cdn.jsdelivr.net/gh/databay-labs/free-proxy-list/socks5.txt
 ```
 
+---
+
+## 🌐 Free Proxy List Web App & API
+
+For more filters (anonymity level, Google compatibility, speed, country) and export formats (JSON, CSV, TXT):
+
+👉 **[databay.com/free-proxy-list](https://databay.com/free-proxy-list)**
+
+### Free API
+```bash
+# Get all strict SSL proxies as JSON
+curl "https://databay.com/api/v1/proxy-list?ssl=strict"
+
+# Get elite SOCKS5 proxies
+curl "https://databay.com/api/v1/proxy-list?protocol=socks5&anonymity=elite&ssl=strict"
+
+# Get Google-compatible proxies as plain text
+curl "https://databay.com/api/v1/proxy-list?google=true&ssl=strict&format=txt"
+```
+
+---
+
 ## 🛡️ Why Choose Premium Proxies?
-While this free list is handy, free proxies lack security and reliability.
+While this free list is handy, free proxies lack reliability for production use.
 
 **Upgrade to Databay for:**
 
@@ -75,11 +86,11 @@ While this free list is handy, free proxies lack security and reliability.
 
 ✅ **Technical Support:** Expert assistance.
 
-✅ **23.7M+ IPs:** Residential, Mobile & Datacenter.
+✅ **34M+ IPs:** Residential, Mobile & Datacenter across 200+ countries.
 
 ## ⚠️ Disclaimer
 **This proxy list is provided "as-is". We are not responsible for misuse or damages. Use at your own risk. Always prioritize security.**
 
 ---
 
-🔗 **Need reliability?** [**Get Databay Premium Proxies Now**](https://www.google.com/search?q=databay+proxies) 🔗  
+🔗 **Need reliability?** [**Get Databay Premium Proxies Now**](https://databay.com/) 🔗
