@@ -4,7 +4,7 @@
 
 # 🔄 Free Proxy List by Databay.com | Constantly Updated
 
-<img src="https://img.shields.io/badge/UPDATED:%200.94%20second(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%202%20second(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
@@ -19,8 +19,8 @@
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-3691,9243003341676ms-yellow) 
-![Lowest](https://img.shields.io/badge/Lowest%20Latency-18,7972ms-brightgreen)
+![Latency](https://img.shields.io/badge/Avg%20Latency-3684,16829491735ms-yellow) 
+![Lowest](https://img.shields.io/badge/Lowest%20Latency-18,3822ms-brightgreen)
 
 
 **&searr;&nbsp;&nbsp;Looking for Premium Proxies?&nbsp;&nbsp;&swarr;**
