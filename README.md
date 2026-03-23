@@ -4,14 +4,14 @@
 
 # 🔄 Free Proxy List by Databay.com | Constantly Updated
 
-<img src="https://img.shields.io/badge/UPDATED:%202%20minute(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%204%20second(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
-  <img src="https://img.shields.io/badge/HTTP-283%20PROXIES-brightgreen">
+  <img src="https://img.shields.io/badge/HTTP-288%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-3631%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-3647%20PROXIES-blue">
 </a>
 
 </br>
@@ -36,8 +36,8 @@
 - **Zero Duplicates**: Clean, optimized list ✨
 - **Multi-Country**: Proxies from **71+ countries** 🌍
 - **Protocol Support**:
-  - **HTTP**: 283 proxies (with strict SSL)
-  - **SOCKS5**: 3631 proxies (with strict SSL)
+  - **HTTP**: 288 proxies (with strict SSL)
+  - **SOCKS5**: 3647 proxies (with strict SSL)
 
 ---
 
