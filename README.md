@@ -8,7 +8,7 @@
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
-  <img src="https://img.shields.io/badge/HTTP-259%20PROXIES-brightgreen">
+  <img src="https://img.shields.io/badge/HTTP-260%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
   <img src="https://img.shields.io/badge/SOCKS5-1642%20PROXIES-blue">
@@ -34,9 +34,9 @@
 - **Strict SSL Only**: Every proxy supports HTTPS with a valid certificate 🔒
 - **Fresh Proxies**: Updated every 5 minutes 🕒
 - **Zero Duplicates**: Clean, optimized list ✨
-- **Multi-Country**: Proxies from **77+ countries** 🌍
+- **Multi-Country**: Proxies from **76+ countries** 🌍
 - **Protocol Support**:
-  - **HTTP**: 259 proxies (with strict SSL)
+  - **HTTP**: 260 proxies (with strict SSL)
   - **SOCKS5**: 1642 proxies (with strict SSL)
 
 ---
