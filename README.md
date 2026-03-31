@@ -8,10 +8,10 @@
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
-  <img src="https://img.shields.io/badge/HTTP-260%20PROXIES-brightgreen">
+  <img src="https://img.shields.io/badge/HTTP-263%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-4982%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-5031%20PROXIES-blue">
 </a>
 
 </br>
@@ -36,8 +36,8 @@
 - **Zero Duplicates**: Clean, optimized list ✨
 - **Multi-Country**: Proxies from **82+ countries** 🌍
 - **Protocol Support**:
-  - **HTTP**: 260 proxies (with strict SSL)
-  - **SOCKS5**: 4982 proxies (with strict SSL)
+  - **HTTP**: 263 proxies (with strict SSL)
+  - **SOCKS5**: 5031 proxies (with strict SSL)
 
 ---
 
