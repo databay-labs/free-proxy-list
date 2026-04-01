@@ -4,19 +4,19 @@
 
 # 🔄 Free Proxy List by Databay.com | Constantly Updated
 
-<img src="https://img.shields.io/badge/UPDATED:%203%20second(s)%20ago-8A2BE2">
+<img src="https://img.shields.io/badge/UPDATED:%201%20second(s)%20ago-8A2BE2">
 </br>
 
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/http.txt">
-  <img src="https://img.shields.io/badge/HTTP-355%20PROXIES-brightgreen">
+  <img src="https://img.shields.io/badge/HTTP-356%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-6890%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-6899%20PROXIES-blue">
 </a>
 
 </br>
 
-![Latency](https://img.shields.io/badge/Avg%20Latency-2534ms-yellow)
+![Latency](https://img.shields.io/badge/Avg%20Latency-2530ms-yellow)
 ![Lowest](https://img.shields.io/badge/Lowest%20Latency-22ms-brightgreen)
 
 **&searr;&nbsp;&nbsp;Browse, filter & download the full list with API access&nbsp;&nbsp;&swarr;**
@@ -36,8 +36,8 @@
 - **Zero Duplicates**: Clean, optimized list ✨
 - **Multi-Country**: Proxies from **89+ countries** 🌍
 - **Protocol Support**:
-  - **HTTP**: 355 proxies (with strict SSL)
-  - **SOCKS5**: 6890 proxies (with strict SSL)
+  - **HTTP**: 356 proxies (with strict SSL)
+  - **SOCKS5**: 6899 proxies (with strict SSL)
 
 ---
 
