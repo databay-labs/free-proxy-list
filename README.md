@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/HTTP-75%20PROXIES-brightgreen">
 </a>
 <a href="https://github.com/databay-labs/free-proxy-list/raw/refs/heads/master/socks5.txt">
-  <img src="https://img.shields.io/badge/SOCKS5-1305%20PROXIES-blue">
+  <img src="https://img.shields.io/badge/SOCKS5-1322%20PROXIES-blue">
 </a>
 
 </br>
@@ -37,7 +37,7 @@
 - **Multi-Country**: Proxies from **58+ countries** 🌍
 - **Protocol Support**:
   - **HTTP**: 75 proxies (with strict SSL)
-  - **SOCKS5**: 1305 proxies (with strict SSL)
+  - **SOCKS5**: 1322 proxies (with strict SSL)
 
 ---
 
