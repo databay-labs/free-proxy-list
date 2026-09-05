@@ -1,0 +1,6 @@
+# README.template.md is SOURCE (GitPublisherWorker renders README.md from it in
+# the build-output FreeProxyList working repo) and must be version-controlled.
+# It was previously ignored here, which kept the live template out of the repo
+# entirely - un-ignored as part of WP5 (open hotlinkable endpoints) so the
+# template edits ship with the branch. Runtime artifacts (README.md, *.txt,
+# by-country/) are only ever written to the bin output copy, never here.
