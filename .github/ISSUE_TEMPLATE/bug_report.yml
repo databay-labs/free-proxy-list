@@ -1,0 +1,42 @@
+name: Feed, API, or documentation bug
+description: Report a reproducible download, response, filter, or example problem.
+title: "[Bug]: "
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - GitHub TXT feed
+        - Public API or website download
+        - Documentation or example
+    validations:
+      required: true
+  - type: input
+    id: resource
+    attributes:
+      label: Exact URL or file
+      description: Include filters for API requests and the commit ID for a GitHub feed, if available.
+    validations:
+      required: true
+  - type: input
+    id: observed
+    attributes:
+      label: When did you observe it (UTC)?
+      placeholder: "2026-09-05 12:00 UTC"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps or minimal command
+      description: Include your runtime/version if an example fails. Remove credentials, cookies, and private URLs.
+    validations:
+      required: true
+  - type: textarea
+    id: expected_actual
+    attributes:
+      label: Expected and actual result
+      description: Include HTTP status and a small response excerpt or error. A single proxy going offline later is expected; describe any repeatable feed or validation problem.
+    validations:
+      required: true
