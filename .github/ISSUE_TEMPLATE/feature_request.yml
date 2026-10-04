@@ -1,0 +1,23 @@
+name: Feature or source request
+description: Suggest a useful improvement, integration example, or public candidate source.
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Explain the task and what is missing from the current feed, API, or documentation.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      description: Include a small example of the desired result and any alternatives you considered.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source URL and reuse terms (for source requests)
+      description: Link to the public feed and its license or redistribution permission. Do not include private or authenticated feeds.
